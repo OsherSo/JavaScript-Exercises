@@ -18,4 +18,3 @@ function areThereDuplicatesSpace(...args) {
   }
   return false;
 }
-console.log(areThereDuplicates(4, 2, 3, 4));
