@@ -13,6 +13,3 @@ function selectionSort(arr) {
 
   return arr;
 }
-
-console.log(selectionSort([312, 3, 34, 1, 34, 215]));
-console.log(selectionSort([1, 2, 3, 4, 5]));
